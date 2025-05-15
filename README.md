@@ -1,6 +1,7 @@
 # 🔍 Face Recognition System
 
 A deep learning-based face recognition system using **OpenCV**, **MTCNN**, and **FaceNet**. This project detects faces, extracts feature embeddings, and classifies them using an SVM classifier. Real-time recognition is supported but not mandatory.
+Dataset - https://drive.google.com/drive/folders/1s8p-wrU5dXCmuZrOsKc5vcHkKqH8C_yP?usp=sharing
 
 ---
 
