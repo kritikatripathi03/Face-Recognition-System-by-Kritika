@@ -10,7 +10,6 @@ Dataset - https://drive.google.com/drive/folders/1s8p-wrU5dXCmuZrOsKc5vcHkKqH8C_
 - 🚶‍♂️ Face detection using **MTCNN**
 - 📐 Feature extraction with **FaceNet** (512-dimensional embeddings)
 - 🧠 Face classification using **SVM**
-- 🎥 Real-time recognition with **OpenCV**
 - 💾 Model saving/loading using `NumPy`
 
 ---
