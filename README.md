@@ -10,7 +10,7 @@ A deep learning-based face recognition system using **OpenCV**, **MTCNN**, and *
 - 📐 Feature extraction with **FaceNet** (512-dimensional embeddings)
 - 🧠 Face classification using **SVM**
 - 🎥 Real-time recognition with **OpenCV**
-- 💾 Model saving/loading using `pickle` and `NumPy`
+- 💾 Model saving/loading using `NumPy`
 
 ---
 
